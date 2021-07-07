@@ -35,7 +35,7 @@ public class Calculation2 {
 	}
 	
 	public static void main(String[] args) {
-		
+		System.out.println("calculation");
 		Calculation2 calc=new Calculation2();
 		int div_result=calc.div(10, 2);
 		int sub_result=calc.sub(div_result, 2);
